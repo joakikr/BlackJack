@@ -1,5 +1,5 @@
-<b><h1>BlackJackFX</h1></b><br>
-A simple player vs dealer Black Jack game coded in JavaFX. </br>
+<b><h1>Blackjack</h1></b><br>
+A simple player vs dealer Black Jack game coded with JavaFX. </br>
 
 <b>Credit:</b><br>
 * Draw Sound - By Kenney Vleugels (www.kenney.nl).
